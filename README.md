@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @absyinka
 - 👀 I’m interested in C# Dotnet/ PHP Laravel projects
 - 🌱 I’m currently learning Cloud Skills
-- 💞️ I’m looking to collaborate on projects that match my interests
+- 💞️ I’m looking to collaborate on projects that match any of my interests
 - 📫 How to reach me: absyinka@gmail.com | https://www.linkedin.com/in/absyinka/
 
 <!---
