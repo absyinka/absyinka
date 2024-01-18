@@ -11,6 +11,9 @@ I am a software engineer, specializing in backend engineering
 
 [![Gmail Badge](https://img.shields.io/badge/-absyinka@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:absyinka@gmail.com)
 
+## Skills
+
+
 <!---
 absyinka/absyinka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
