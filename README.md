@@ -14,7 +14,7 @@ I am a software engineer, specializing in backend engineering
 ## Skills
 
 <p style="text-align: left">
-  <a href="#" style="text-decoration: none; color:#428bca">Test link</a>
+  <a href="#" style="text-decoration: none;">Test link</a>
 </p>
 
 <!---
