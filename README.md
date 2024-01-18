@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @absyinka,
 
-I am a software engineer, specializing in backend engineering
+I am a Software Engineer, specializing in Backend Engineering
 
 - 👀 I am always curious to explore new ideas, especially those that challenge me to learn and grow.
 - 🌱 I am developing my cloud skills, which are essential for modern software engineering, and learning how to apply DevOps and DevSecOps principles in my projects.
@@ -14,7 +14,7 @@ I am a software engineer, specializing in backend engineering
 ## Skills
 
 <p style="text-align: left">
-  <a href="#" style="text-decoration: none;">Test link</a>
+
 </p>
 
 <!---
